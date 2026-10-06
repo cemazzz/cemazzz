@@ -18,7 +18,7 @@
 - *(more coming soon)*
 
 ## 📫 Contact
-- Email: dphan2132@email.com
+- Email: dphan2132@gmail.com
 
 ## 🎮 Contribution game
 <picture>
