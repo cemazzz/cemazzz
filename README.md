@@ -2,7 +2,7 @@
 
 <p align="center">
   Software Engineering student 🎓 | Learning Python & AI 🤖<br>
-  Goal: become an AI Engineer and work remotely 🌏
+  Goal: become an AI Engineer
 </p>
 
 <p align="center">
