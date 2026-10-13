@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋 I'm Phan Văn Duy</h1>
 
 <p align="center">
-  Software Engineering student 🎓 | Learning Python & AI 🤖<br>
+  Software Engineering student 🎓 <br>
   Goal: become an AI Engineer
 </p>
 
@@ -10,9 +10,9 @@
 </p>
 
 ## 🌱 Currently learning
-- Python (data structures, algorithms)
-- C/C++ fundamentals
-- English (reading, listening, speaking)
+- Python
+- C
+- English
 
 ## 📂 Projects
 - *(more coming soon)*
